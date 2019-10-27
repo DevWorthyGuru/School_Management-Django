@@ -1,12 +1,12 @@
 # School Management
 
 This is a school management system that uses
-[Django Admin](https://www.google.com/search?client=opera&q=django+admin&sourceid=opera&ie=UTF-8&oe=UTF-8) to 
+[Django Admin] to 
 do most of the work of managing students, fee submissions, teacher records etc..
 
 Setting up School Management is very easy.
 ## Want to Use?
-This branch is under development right now. But if you want to use it in a small setup then you can [deploy this commit](https://github.com/ZeroCoolHacker/easy-school/tree/6ad71e3024e9abfc37ae6fb1cdec2362ed6d382a) as it is properly working except the Fee summary report 
+This branch is under development right now. But if you want to use it in a small setup then you can [deploy this commit] as it is properly working except the Fee summary report 
 ## Building
 
 It is best to use the python `virtualenv` tool to build locally:
